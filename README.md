@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Erick Souza
 
-<!--
-**erksouzadev/erksouzadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+💻 Desenvolvedor **Full Stack em formação**
+🚀 Atualmente focado no desenvolvimento de aplicações e na evolução das minhas habilidades em programação.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Em desenvolvimento
+
+* ☕ **Java**
+* 🌱 **Spring Boot**
+* 🗄️ **MySQL**
+* 🧠 **Lógica de Programação**
+
+### Ferramentas
+
+* 🔧 **Git**
+* 🐙 **GitHub**
+
+## 💡 Áreas de interesse
+
+Tenho interesse principalmente em **Desenvolvimento Back-end e Full Stack**, com foco na criação de aplicações eficientes, organização de código e resolução de problemas através da tecnologia.
+
+Atualmente, estou direcionando meus estudos para o ecossistema **Java + Spring Boot + MySQL**, buscando transformar os conhecimentos adquiridos na faculdade em projetos práticos.
+
+## 📚 Em constante aprendizado
+
+Meu objetivo é evoluir continuamente como desenvolvedor, construindo projetos próprios, ampliando meu conhecimento em diferentes tecnologias e desenvolvendo um portfólio que represente minha evolução profissional.
+
+## 🚀 Projetos
+
+Atualmente estou iniciando a construção do meu portfólio de projetos.
+
+Novos projetos e repositórios serão adicionados conforme meu aprendizado e desenvolvimento na área.
+
+---
+
+📫 **Vamos nos conectar e acompanhar minha evolução na tecnologia!**
